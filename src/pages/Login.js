@@ -1,6 +1,6 @@
 function Login() {
   const CLIENT_ID = 'd4b2717adaa74dd2924092d5b8f68955';
-  const REDIRECT_URI = 'http://localhost:3000/';
+  const REDIRECT_URI = 'https://playlist-manager-app.netlify.app/';
   const AUTH_ENDPOINT = 'https://accounts.spotify.com/authorize';
   const RESPONSE_TYPE = 'token';
 
